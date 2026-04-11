@@ -2,6 +2,13 @@
 
 Privacy-first alternative to remove.bg, TinyPNG, and Canva.
 
+---
+
+🏷️ Free Web Interface: https://urtworkmail.github.io/ImageForge/
+
+---
+
+
 ## Features (all work offline)
 
 1. **Background Remover** – Local AI model (RMBG-1.4 via Transformers.js), no upload
