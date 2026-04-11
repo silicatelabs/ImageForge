@@ -21,8 +21,5 @@ Privacy-first alternative to remove.bg, TinyPNG, and Canva.
 
 remove.bg charges $0.20/image after free quota and uploads your photos. ImageForge runs the AI model **in your browser**. First load downloads ~40MB model, then works forever offline.
 
-## Deploy
-
-Upload `imageforge.html` as `index.html` to GitHub Pages. Done.
 
 MIT Licensed.
