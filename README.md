@@ -23,7 +23,7 @@ remove.bg charges $0.20/image after free quota and uploads your photos. ImageFor
 
 ---
 
-### 🆚2.0 New Updates
+### 🆚2.0 New Updates 
 
 Fixes:
 
